@@ -4,5 +4,4 @@ my name is samer lutfi from damascus syria i graduated as medical laboratory ana
 | topic         |  link                                                                   |
 | ------        | ------                                                                  |
 | Growth mindet | [lab02.md](https://github.com/samerlutfi/reading-notes/blob/main/lab02.md) |
-| more about github|[read01.md](https://github.com/samerlutfi/reading-notes/blob/main/read01.md)|
-
+| more about github|[read01.md](https://github.com/samerlutfi/reading-notes/blob/main/read01.md)
