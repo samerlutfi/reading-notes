@@ -3,10 +3,9 @@ my name is samer lutfi from damascus syria i graduated as medical laboratory ana
 
 | topic         |  link                                                                   |
 | ------        | ------                                                                  |
-
-| Growth mindet | [lab02.md](https://samerlutfi.github.io/reading-notes/lab02) |
-| more about github|[read01.md](https://samerlutfi.github.io/reading-notes/read01)
-=======
-| Growth mindet | [lab02.md](https://samerlutfi.github.io/reading-notes/lab02) |
-| more about github|[read01.md](https://samerlutfi.github.io/reading-notes/read01
-
+| Growth mindet | [lab02.md](https://samerlutfi.github.io/reading-notes/lab02)            |
+| more about github|[read01.md](https://samerlutfi.github.io/reading-notes/read01)        |
+| version control  |[read02](https://samerlutfi.github.io/reading-notes/read02)           |
+| HTML             |[read03](https://samerlutfi.github.io/reading-notes/read03)           |
+|CSS               |[read04](https://samerlutfi.github.io/reading-notes/read04)           |
+| Js               |[read06](https://samerlutfi.github.io/reading-notes/read06)           |
