@@ -9,6 +9,13 @@ my name is samer lutfi from damascus syria i graduated as medical laboratory ana
 | HTML             |[read03](https://samerlutfi.github.io/reading-notes/read03)           |
 |CSS               |[read04](https://samerlutfi.github.io/reading-notes/read04)           |
 | Js               |[read06](https://samerlutfi.github.io/reading-notes/read06)           |
+| Js func          |[read07](https://samerlutfi.github.io/reading-notes/read07)           |
+| loops in js      |[read08](https://samerlutfi.github.io/reading-notes/read08)           |
+
+## code 201 reading notes:
+
+| topic         |  link                                                                   |
+| ------        | ------                                                                  |
 
 
 
