@@ -341,6 +341,7 @@ information about your web page.
 
 *  Escape characters are used to include special 
 characters in your pages such as <, >, and ©.
+<<<<<<< HEAD
 
 ### New Html5 Layout Elements:
 ![ds](https://slideplayer.com/slide/12052583/69/images/7/NEW+HTML5+LAYOUT+ELEMENTS.jpg)
@@ -523,4 +524,5 @@ the <link> element can be used to load a CSS file).
 * If you view the source code of the page in the browser, 
 the JavaScript will not have changed the HTML, 
 because the script works with the model of the web 
-page that the browser has created. 
+page that the browser has created.
+
