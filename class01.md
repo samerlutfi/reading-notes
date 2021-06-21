@@ -207,8 +207,6 @@ belongs to.
 appear to start on a new line in 
 the browser window. These are 
 known as block level elements. 
-> Examples of block elements are 
-<h1>, <p>, <ul>, and <li>.
 
 **Inline Elements:**
 
@@ -219,8 +217,6 @@ elements. These are known as
 inline elements.
 > Examples of inline elements are :
 a, b, em, and ,img
-
-
 
 **Grouping Text & Elements In a Block:**
 
