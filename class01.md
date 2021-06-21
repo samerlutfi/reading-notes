@@ -379,71 +379,7 @@ site.
 
 ● A header or footer for an 
 individual <article> or 
-<section> within the pag.
-
-**<nav>:**
-
-The <nav> element is used to 
-contain the major navigational 
-blocks on the site such as the 
-primary site navigation.
-
-**<article>**
-
-The <article> element acts as 
-a container for any section of a 
-page that could stand alone and 
-potentially be syndicated.
-This could be an individual 
-article or blog entry, a comment 
-or forum post, or any other 
-independent piece of content.
-
-**<aside>:**
-
-The <aside> element has two 
-purposes, depending on whether 
-it is inside an <article>
-element or not.
-When the <aside> element 
-is used inside an <article>
-element, it should contain 
-information that is related to the 
-article but not essential to its 
-overall meaning. For example, a 
-pullquote or glossary might be 
-considered as an aside to the 
-article it relates to.
-
-**<section>**
-
-The <section> element groups 
-related content together, and 
-typically each section would 
-have its own heading.
-For example, on a homepage 
-there may be several <section>
-elements to contain different 
-sections of the page, such as 
-latest news, top products, and 
-newsletter signup.
-
-**<hgroup>**
-
-The purpose of the <hgroup>
-element is to group together a 
-set of one or more <h1> through 
-<h6> elements so that they are 
-treated as one single heading. 
-
-**<figure>**
-
-You already met the <figure>
-element in Chapter 5 when we 
-looked at images. It can be used 
-to contain any content that is 
-referenced from the main flow of 
-an article (not just images). 
+<section within the pag.
 
 > * HTML5 allows web page authors 
 to place an <a> element around 
