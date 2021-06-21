@@ -98,11 +98,11 @@ academic concept or some
 jargon) in a document, it is 
 known as the defining instance 
 of it.
-The <dfn> element is used to 
+The  element is used to 
 indicate the defining instance of 
 a new term.
 
-* The <address> element has 
+* The  element has 
 quite a specific use: to contain 
 contact details for the author of 
 the page.
@@ -111,13 +111,13 @@ but it does not have to. For
 example, it may also contain a 
 phone number or email address.
 
-* The <ins> element can be used 
+* The  element can be used 
 to show content that has been 
 inserted into a document, while 
-the <del> element can show text 
+the < element can show text 
 that has been deleted from it.
 
-* The <s> element indicates 
+* The s element indicates 
 something that is no longer 
 accurate or relevant (but that 
 should not be deleted)
@@ -327,7 +327,6 @@ There are scenarios, however, in which we must assert whether multiple values or
 **Use if** to specify a block of code to be executed, if a specified condition is true.
 **Use else** to specify a block of code to be executed, if the same condition is false.
 **Use else if** to specify a new condition to test, if the first condition is false.
-
 
 
 
