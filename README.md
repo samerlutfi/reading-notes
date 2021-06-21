@@ -1,5 +1,7 @@
-### introduction of myself:
-my name is samer lutfi from damascus syria i graduated as medical laboratory analyzier in 2020 .i always have been passion in programing and im so excited to be full-stack developer in this course.
+### reading note summary:
+
+here is the summarization for all read labs since our course has been started.
+
 
 ## code 102 reading notes:
 
