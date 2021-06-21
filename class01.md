@@ -217,11 +217,12 @@ appear to continue on the
 same line as their neighbouring 
 elements. These are known as 
 inline elements.
-> Examples of inline elements are 
-<a>, <b>, <em>, and <img>
+> Examples of inline elements are :
+a, b, em, and ,img
 
-**Grouping Text & 
-Elements In a Block:**
+
+
+**Grouping Text & Elements In a Block:**
 
 The <div> element allows you to 
 group a set of elements together 
@@ -239,8 +240,7 @@ a new line, but other than this
 it will make no difference to the 
 presentation of the page. 
 
-**Grouping Text & 
-Elements Inline:**
+**Grouping Text & Elements Inline:**
 
 The <span> element acts like 
 an inline equivalent of the <div>
