@@ -24,6 +24,4 @@ here is the summarization for all read labs since our course has been started.
 |HTML&CSS 2     |[class02](https://samerlutfi.github.io/reading-notes/class02)            |
 |HTML&CSS 3     |[classo3](https://samerlutfi.github.io/reading-notes/class03)            |
 |HTML&CSS 4     |[classo4](https://samerlutfi.github.io/reading-notes/class04)            |
-
-
-
+|HTML&CSS 5     |[class05](https://samerlutfi.github.io/reading-notes/class05)            |
